@@ -1,6 +1,6 @@
 ---
 lastAuthor: Leo-Ryu
-lastEdited: 1611807572791
+lastEdited: 1611808699764
 ---
 # What is Prisma
 
